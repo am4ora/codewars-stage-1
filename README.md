@@ -1,0 +1,1 @@
+# codewars-stage-1
